@@ -1,0 +1,380 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Infrastructure\\RickAndMortyAPIApp.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Auth\\RickAndMortyAPIApp.Auth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Auth\\RickAndMortyAPIApp.Auth.csproj",
+        "projectName": "RickAndMortyAPIApp.Auth",
+        "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Auth\\RickAndMortyAPIApp.Auth.csproj",
+        "packagesPath": "C:\\Users\\fayaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Auth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fayaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj"
+              },
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj",
+        "projectName": "RickAndMortyAPIApp.Domain",
+        "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\fayaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fayaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Infrastructure\\RickAndMortyAPIApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Infrastructure\\RickAndMortyAPIApp.Infrastructure.csproj",
+        "projectName": "RickAndMortyAPIApp.Infrastructure",
+        "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Infrastructure\\RickAndMortyAPIApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\fayaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fayaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Auth\\RickAndMortyAPIApp.Auth.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Auth\\RickAndMortyAPIApp.Auth.csproj"
+              },
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj"
+              },
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj"
+              },
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Parser\\RickAndMortyAPIApp.Parser.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Parser\\RickAndMortyAPIApp.Parser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.1.24081.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0-preview.1.24081.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.1.24081.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.0-preview.1.24081.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.0-preview.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj",
+        "projectName": "RickAndMortyAPIApp.Logger",
+        "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj",
+        "packagesPath": "C:\\Users\\fayaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fayaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.0-dev-02122, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.2-dev-00334, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Parser\\RickAndMortyAPIApp.Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Parser\\RickAndMortyAPIApp.Parser.csproj",
+        "projectName": "RickAndMortyAPIApp.Parser",
+        "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Parser\\RickAndMortyAPIApp.Parser.csproj",
+        "packagesPath": "C:\\Users\\fayaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Parser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fayaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Domain\\RickAndMortyAPIApp.Domain.csproj"
+              },
+              "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj": {
+                "projectPath": "C:\\Users\\fayaz\\source\\repos\\RickAndMortyAPIApp\\RickAndMortyAPIApp.Logger\\RickAndMortyAPIApp.Logger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Refit.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\bin\Debug\net8.0\RickAndMortyAPIApp.Auth.deps.json
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\bin\Debug\net8.0\RickAndMortyAPIApp.Auth.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\bin\Debug\net8.0\RickAndMortyAPIApp.Auth.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\bin\Debug\net8.0\RickAndMortyAPIApp.Domain.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\bin\Debug\net8.0\RickAndMortyAPIApp.Logger.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\bin\Debug\net8.0\RickAndMortyAPIApp.Domain.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\bin\Debug\net8.0\RickAndMortyAPIApp.Logger.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndMortyAPIApp.Auth.csproj.AssemblyReference.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndMortyAPIApp.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndMortyAPIApp.Auth.AssemblyInfoInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndMortyAPIApp.Auth.AssemblyInfo.cs
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndMortyAPIApp.Auth.csproj.CoreCompileInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndM.75B39E9A.Up2Date
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndMortyAPIApp.Auth.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\refint\RickAndMortyAPIApp.Auth.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\RickAndMortyAPIApp.Auth.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Auth\obj\Debug\net8.0\ref\RickAndMortyAPIApp.Auth.dll

@@ -1,0 +1,12 @@
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\bin\Debug\net8.0\RickAndMortyAPIApp.Logger.deps.json
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\bin\Debug\net8.0\RickAndMortyAPIApp.Logger.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\bin\Debug\net8.0\RickAndMortyAPIApp.Logger.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\RickAndMortyAPIApp.Logger.csproj.AssemblyReference.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\RickAndMortyAPIApp.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\RickAndMortyAPIApp.Logger.AssemblyInfoInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\RickAndMortyAPIApp.Logger.AssemblyInfo.cs
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\RickAndMortyAPIApp.Logger.csproj.CoreCompileInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\RickAndMortyAPIApp.Logger.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\refint\RickAndMortyAPIApp.Logger.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\RickAndMortyAPIApp.Logger.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Logger\obj\Debug\net8.0\ref\RickAndMortyAPIApp.Logger.dll

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\RickAndMortyAPIApp.Auth\RickAndMortyAPIApp.Auth.csproj" />
+      <ProjectReference Include="..\RickAndMortyAPIApp.Domain\RickAndMortyAPIApp.Domain.csproj" />
+      <ProjectReference Include="..\RickAndMortyAPIApp.Logger\RickAndMortyAPIApp.Logger.csproj" />
+      <ProjectReference Include="..\RickAndMortyAPIApp.Parser\RickAndMortyAPIApp.Parser.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="13.0.1" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0-preview.1.24081.2" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="9.0.0-preview.1.24081.2" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0-preview.1.24081.2">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.0-preview.1.24081.2" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.0-preview.1" />
+    </ItemGroup>
+
+</Project>

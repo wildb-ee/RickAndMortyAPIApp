@@ -1,0 +1,8 @@
+2024-03-20 00:50:55.435 +05:00 [INF] Executed DbCommand (17ms) [Parameters=[@__userDto_username_0='?'], CommandType='"Text"', CommandTimeout='7200']
+SELECT u."Id", u."Email", u."Password", u."Username"
+FROM public."Users" AS u
+WHERE u."Username" = @__userDto_username_0
+LIMIT 1
+2024-03-20 00:50:56.090 +05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-03-20 00:50:56.094 +05:00 [INF] HTTP POST /Auth/login responded 200 in 720.0329 ms
+2024-03-20 00:51:00.349 +05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.

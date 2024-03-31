@@ -1,0 +1,6 @@
+2024-03-20 00:50:59.913 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__userDto_username_0='?'], CommandType='"Text"', CommandTimeout='7200']
+SELECT u."Id", u."Email", u."Password", u."Username"
+FROM public."Users" AS u
+WHERE u."Username" = @__userDto_username_0
+LIMIT 1
+2024-03-20 00:51:00.352 +05:00 [INF] HTTP POST /Auth/login responded 200 in 454.1576 ms

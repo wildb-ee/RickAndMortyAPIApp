@@ -1,0 +1,11 @@
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\bin\Debug\net8.0\RickAndMortyAPIApp.Domain.deps.json
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\bin\Debug\net8.0\RickAndMortyAPIApp.Domain.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\bin\Debug\net8.0\RickAndMortyAPIApp.Domain.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\RickAndMortyAPIApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\RickAndMortyAPIApp.Domain.AssemblyInfoInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\RickAndMortyAPIApp.Domain.AssemblyInfo.cs
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\RickAndMortyAPIApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\RickAndMortyAPIApp.Domain.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\refint\RickAndMortyAPIApp.Domain.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\RickAndMortyAPIApp.Domain.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Domain\obj\Debug\net8.0\ref\RickAndMortyAPIApp.Domain.dll

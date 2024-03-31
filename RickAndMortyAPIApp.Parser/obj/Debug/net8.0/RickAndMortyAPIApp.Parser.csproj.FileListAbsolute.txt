@@ -1,0 +1,17 @@
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\bin\Debug\net8.0\RickAndMortyAPIApp.Parser.deps.json
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\bin\Debug\net8.0\RickAndMortyAPIApp.Parser.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\bin\Debug\net8.0\RickAndMortyAPIApp.Parser.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\bin\Debug\net8.0\RickAndMortyAPIApp.Domain.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\bin\Debug\net8.0\RickAndMortyAPIApp.Domain.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndMortyAPIApp.Parser.csproj.AssemblyReference.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndMortyAPIApp.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndMortyAPIApp.Parser.AssemblyInfoInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndMortyAPIApp.Parser.AssemblyInfo.cs
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndMortyAPIApp.Parser.csproj.CoreCompileInputs.cache
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndM.4DB54980.Up2Date
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndMortyAPIApp.Parser.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\refint\RickAndMortyAPIApp.Parser.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\RickAndMortyAPIApp.Parser.pdb
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\obj\Debug\net8.0\ref\RickAndMortyAPIApp.Parser.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\bin\Debug\net8.0\RickAndMortyAPIApp.Logger.dll
+C:\Users\fayaz\source\repos\RickAndMortyAPIApp\RickAndMortyAPIApp.Parser\bin\Debug\net8.0\RickAndMortyAPIApp.Logger.pdb
